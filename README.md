@@ -32,15 +32,15 @@ The primary goal of this project is to provide a simple and effective tool for c
 ## Project Structure
 
 Image-Colorization-App/
-│
-├── app.py                # Main Flask application
-├── static/               # Static files (CSS, JS, images)
-│   └── style.css         # CSS for styling the app
-├── templates/            # HTML templates
-│   ├── index.html        # Main page for uploading images
-│   └── result.html       # Page to display the colorized image
-├── requirements.txt       # List of dependencies
-└── README.md              # Project documentation
+│ <br>
+├── app.py                # Main Flask application  <br>
+├── static/               # Static files (CSS, JS, images) <br>
+│   └── style.css         # CSS for styling the app <br>
+├── templates/            # HTML templates <br>
+│   ├── index.html        # Main page for uploading images <br>
+│   └── result.html       # Page to display the colorized image <br>
+├── requirements.txt       # List of dependencies <br>
+└── README.md              # Project documentation <br>
 
 
 ## Installation
